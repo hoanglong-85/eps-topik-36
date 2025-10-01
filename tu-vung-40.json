@@ -1,0 +1,227 @@
+[
+    {
+        "korean": " 플라스틱 ",
+        "vietnamese": " Nhựa  \r",
+        "audio": "tu-vung-40-1.mp3"
+    },
+    {
+        "korean": " 고무 ",
+        "vietnamese": " Cao su  \r",
+        "audio": "tu-vung-40-2.mp3"
+    },
+    {
+        "korean": " 성형 ",
+        "vietnamese": " Tạo hình  \r",
+        "audio": "tu-vung-40-3.mp3"
+    },
+    {
+        "korean": " 혼합 ",
+        "vietnamese": " Hỗn hợp  \r",
+        "audio": "tu-vung-40-4.mp3"
+    },
+    {
+        "korean": " 측정 ",
+        "vietnamese": " Đo đạc  \r",
+        "audio": "tu-vung-40-5.mp3"
+    },
+    {
+        "korean": " 혼합하다 ",
+        "vietnamese": " Pha trộn  \r",
+        "audio": "tu-vung-40-6.mp3"
+    },
+    {
+        "korean": " 원재료 ",
+        "vietnamese": " Nguyên liệu  \r",
+        "audio": "tu-vung-40-7.mp3"
+    },
+    {
+        "korean": " 첨가제 ",
+        "vietnamese": " Chất phụ gia, xúc tác  \r",
+        "audio": "tu-vung-40-8.mp3"
+    },
+    {
+        "korean": " 혼합기 ",
+        "vietnamese": " Máy trộn  \r",
+        "audio": "tu-vung-40-9.mp3"
+    },
+    {
+        "korean": " 측정하다 ",
+        "vietnamese": " Đo đạc  \r",
+        "audio": "tu-vung-40-10.mp3"
+    },
+    {
+        "korean": " 접시 저울 ",
+        "vietnamese": " Cân đĩa  \r",
+        "audio": "tu-vung-40-11.mp3"
+    },
+    {
+        "korean": " 전자 저울 ",
+        "vietnamese": " Cân điện tử  \r",
+        "audio": "tu-vung-40-12.mp3"
+    },
+    {
+        "korean": " 자 ",
+        "vietnamese": " Thước  \r",
+        "audio": "tu-vung-40-13.mp3"
+    },
+    {
+        "korean": " 줄자 ",
+        "vietnamese": " Thước dây  \r",
+        "audio": "tu-vung-40-14.mp3"
+    },
+    {
+        "korean": " 버니어 캘리퍼스 ",
+        "vietnamese": " Thước kẹp  \r",
+        "audio": "tu-vung-40-15.mp3"
+    },
+    {
+        "korean": " 가로 ",
+        "vietnamese": " Chiều ngang  \r",
+        "audio": "tu-vung-40-16.mp3"
+    },
+    {
+        "korean": " 세로 ",
+        "vietnamese": " Chiều dọc  \r",
+        "audio": "tu-vung-40-17.mp3"
+    },
+    {
+        "korean": " 비율 ",
+        "vietnamese": " Tỉ lệ  \r",
+        "audio": "tu-vung-40-18.mp3"
+    },
+    {
+        "korean": " 무게를 재다 ",
+        "vietnamese": " Đo cân nặng  \r",
+        "audio": "tu-vung-40-19.mp3"
+    },
+    {
+        "korean": " 중량을 측정하다 ",
+        "vietnamese": " Đo trọng lượng  \r",
+        "audio": "tu-vung-40-20.mp3"
+    },
+    {
+        "korean": " 길이를 측정하다 ",
+        "vietnamese": " Đo chiều dài  \r",
+        "audio": "tu-vung-40-21.mp3"
+    },
+    {
+        "korean": " 투입하다 ",
+        "vietnamese": " Bỏ vào, đưa vào  \r",
+        "audio": "tu-vung-40-22.mp3"
+    },
+    {
+        "korean": " 제품 ",
+        "vietnamese": " Sản phẩm  \r",
+        "audio": "tu-vung-40-23.mp3"
+    },
+    {
+        "korean": " 불량 ",
+        "vietnamese": " Hỏng, lỗi  \r",
+        "audio": "tu-vung-40-24.mp3"
+    },
+    {
+        "korean": " 불량품 ",
+        "vietnamese": " Hàng lỗi  \r",
+        "audio": "tu-vung-40-25.mp3"
+    },
+    {
+        "korean": " 조치 ",
+        "vietnamese": " Biện pháp  \r",
+        "audio": "tu-vung-40-26.mp3"
+    },
+    {
+        "korean": " 검사하다 ",
+        "vietnamese": " Kiểm tra  \r",
+        "audio": "tu-vung-40-27.mp3"
+    },
+    {
+        "korean": " 불량품이 나오다 ",
+        "vietnamese": " Hàng lỗi ra  \r",
+        "audio": "tu-vung-40-28.mp3"
+    },
+    {
+        "korean": " 휘다 ",
+        "vietnamese": " Cong, vênh  \r",
+        "audio": "tu-vung-40-29.mp3"
+    },
+    {
+        "korean": " 성형이 덜 되다 ",
+        "vietnamese": " Tạo hình thiếu  \r",
+        "audio": "tu-vung-40-30.mp3"
+    },
+    {
+        "korean": " 깨지다 ",
+        "vietnamese": " Bị vỡ  \r",
+        "audio": "tu-vung-40-31.mp3"
+    },
+    {
+        "korean": " 검은 점이 생기다 ",
+        "vietnamese": " Có chấm đen  \r",
+        "audio": "tu-vung-40-32.mp3"
+    },
+    {
+        "korean": " 검은 줄이 생기다 ",
+        "vietnamese": " Có vệt đen  \r",
+        "audio": "tu-vung-40-33.mp3"
+    },
+    {
+        "korean": " 작동을 중지하다 ",
+        "vietnamese": " Dừng vận hành  \r",
+        "audio": "tu-vung-40-34.mp3"
+    },
+    {
+        "korean": " 살펴보다 ",
+        "vietnamese": " Xem xét, kiểm tra  \r",
+        "audio": "tu-vung-40-35.mp3"
+    },
+    {
+        "korean": " 압력을 낮추다 ",
+        "vietnamese": " Giảm áp  \r",
+        "audio": "tu-vung-40-36.mp3"
+    },
+    {
+        "korean": " 압력을 높이다 ",
+        "vietnamese": " Tăng áp  \r",
+        "audio": "tu-vung-40-37.mp3"
+    },
+    {
+        "korean": " 온도를 조절하다 ",
+        "vietnamese": " Điều chỉnh nhiệt độ  \r",
+        "audio": "tu-vung-40-38.mp3"
+    },
+    {
+        "korean": " 온도를 낮추다 ",
+        "vietnamese": " Hạ nhiệt  \r",
+        "audio": "tu-vung-40-39.mp3"
+    },
+    {
+        "korean": " 온도를 높이다 ",
+        "vietnamese": " Tăng nhiệt  \r",
+        "audio": "tu-vung-40-40.mp3"
+    },
+    {
+        "korean": " 이상이 있다 ",
+        "vietnamese": " Có bất thường  \r",
+        "audio": "tu-vung-40-41.mp3"
+    },
+    {
+        "korean": " 조치를 취하다 ",
+        "vietnamese": " Tìm biện pháp  \r",
+        "audio": "tu-vung-40-42.mp3"
+    },
+    {
+        "korean": " 압력 ",
+        "vietnamese": " Áp suất  \r",
+        "audio": "tu-vung-40-43.mp3"
+    },
+    {
+        "korean": " 표면 ",
+        "vietnamese": " Bề mặt  \r",
+        "audio": "tu-vung-40-44.mp3"
+    },
+    {
+        "korean": " 원인 ",
+        "vietnamese": " Nguyên nhân  ",
+        "audio": "tu-vung-40-45.mp3"
+    }
+]

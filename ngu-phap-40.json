@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-는 대신에",
+  "loai": "Động từ + -는 대신에 / Danh từ + 대신에",
+  "ynghia": "Được gắn vào **động từ** để diễn tả không thực hiện hành động trước mà **thay vào đó** thực hiện hành động sau. Khi dùng với **danh từ**, mang nghĩa thay cho (danh từ).",
+  "vidu": [
+    { "cau": "망치로 두드리는 대신에 드라이버로 조여 보세요.", "nghia": "Hãy thử vặn bằng tua vít thay vì gõ bằng búa." },
+    { "cau": "오늘 자하라 씨를 못 만나는 대신에 주말에 만나기로 했어요.", "nghia": "Thay vì gặp chị Zahara hôm nay, tôi đã hẹn gặp vào cuối tuần." },
+    { "cau": "휴가 때 고향에 가는 대신에 동료들과 여행을 가려고 합니다.", "nghia": "Thay vì về quê vào kỳ nghỉ, tôi dự định đi du lịch với đồng nghiệp." },
+    { "cau": "절단 가위 대신에 전기 절단기를 사용해 보세요.", "nghia": "Hãy thử dùng máy cắt điện thay vì kéo cắt." },
+    { "cau": "내일은 닛차난 씨 대신에 자하라 씨가 혼합 작업을 할 거예요.", "nghia": "Ngày mai, chị Zahara sẽ làm công việc pha trộn thay cho anh Nitchanan." }
+  ],
+  "luat": "Động từ + -는 대신에: Dùng để chỉ hành động phía sau được thực hiện **thay thế** cho hành động phía trước. Danh từ + 대신에: Dùng để chỉ người hoặc sự việc được **thay thế**."
+},
+{
+  "nguphap": "-나/(으)ㄴ가 보다",
+  "loai": "Động từ/있다/없다 + -나 보다 / Tính từ + -(으)ㄴ가 보다",
+  "ynghia": "Được gắn vào **động từ** hoặc **tính từ** để diễn tả sự **phỏng đoán** dựa trên một sự việc hay tình huống mà người nói đã thấy hoặc nghe được.",
+  "vidu": [
+    { "cau": "밤 9시인데 아직도 사람들이 일하나 봐요.", "nghia": "Đã 9 giờ tối rồi mà mọi người vẫn đang làm việc, chắc là bận lắm." },
+    { "cau": "오늘도 야근을 해요? 일이 많은가 봐요.", "nghia": "Hôm nay cũng làm thêm giờ à? Chắc là công việc nhiều lắm." },
+    { "cau": "칼로 씨가 오늘도 출근을 안 했어요. 많이 아픈가 봐요.", "nghia": "Anh Carlo hôm nay cũng không đi làm, chắc bị ốm nặng lắm." }
+  ],
+  "luat": "Động từ/있다/없다 + -나 보다: Suy đoán dựa trên hiện tượng hoặc sự việc đã quan sát.  \nTính từ + -(으)ㄴ가 보다: Suy đoán dựa trên trạng thái hoặc tính chất của sự việc."
+}]

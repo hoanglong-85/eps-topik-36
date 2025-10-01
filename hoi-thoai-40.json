@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-40-1.mp3",
+  "hinhanh": "hoi-thoai-40-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "자하라",
+      "korean": "마두 씨, 혼합기에 넣을 원재료의 중량 쟀어요?",
+      "vietnamese": "Madhu, bạn đã cân khối lượng nguyên liệu để cho vào máy trộn chưa?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "지금 측정하려고 해요.",
+      "vietnamese": "Tôi đang định đo bây giờ."
+    },
+    {
+      "speaker": "자하라",
+      "korean": "중량이 정확해야 되니까 접시 저울로 재는 대신에 전자 저울로 측정하세요.",
+      "vietnamese": "Vì cân nặng phải chính xác nên hãy dùng cân điện tử thay vì cân đĩa."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 원재료 중량을 재고 나서 첨가제 비율을 확인하면 되지요?",
+      "vietnamese": "Vâng, sau khi cân nguyên liệu thì tôi sẽ kiểm tra tỷ lệ phụ gia đúng không?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "맞아요. 그런데 혼합기 청소도 중요해요. 혼합기가 깨끗하지 않으면 원하는 색이 나오지 않아요.",
+      "vietnamese": "Đúng rồi. Nhưng việc vệ sinh máy trộn cũng rất quan trọng. Nếu máy không sạch thì màu mong muốn sẽ không ra được."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "그럼 혼합기 청소 먼저 할게요.",
+      "vietnamese": "Vậy tôi sẽ vệ sinh máy trộn trước."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "중량은 무엇으로 측정해야 돼요?",
+      "vietnamese_question": "Nên dùng gì để đo khối lượng?",
+      "korean_answer": "전자 저울로 측정해야 돼요.",
+      "vietnamese_answer": "Nên đo bằng cân điện tử."
+    },
+    {
+      "korean_question": "마두 씨는 무슨 일을 먼저 할 거예요?",
+      "vietnamese_question": "Madhu sẽ làm gì trước?",
+      "korean_answer": "혼합기를 청소할 거예요.",
+      "vietnamese_answer": "Anh ấy sẽ vệ sinh máy trộn trước."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-40-2.mp3",
+  "hinhanh": "hoi-thoai-40-2.jpg",
+  "hoithoai":  [
+    {
+      "speaker": "자하라",
+      "korean": "반장님, 불량품이 나왔어요. 어떻게 할까요?",
+      "vietnamese": "Banjan-nim, có sản phẩm lỗi rồi. Chúng ta nên làm gì?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "일단 기계 작동을 중지하세요.",
+      "vietnamese": "Trước hết, hãy dừng máy lại."
+    },
+    {
+      "speaker": "자하라",
+      "korean": "네, 알겠습니다. 왜 이런 불량이 발생하지요?",
+      "vietnamese": "Vâng, tôi hiểu rồi. Tại sao lại xảy ra lỗi này ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "압력이 높은가 봐요. 물건을 만들 때 압력이 너무 높으면 이렇게 깨져요.",
+      "vietnamese": "Có vẻ do áp suất cao quá. Khi sản xuất, nếu áp suất quá cao thì sản phẩm sẽ bị vỡ như thế này."
+    },
+    {
+      "speaker": "자하라",
+      "korean": "그럼 압력을 낮출까요?",
+      "vietnamese": "Vậy chúng ta giảm áp suất xuống nhé?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "네. 그리고 다른 원인이 있을 수도 있으니까 기계를 잘 살펴봅시다.",
+      "vietnamese": "Ừ. Và cũng có thể còn nguyên nhân khác, nên hãy kiểm tra kỹ máy móc."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "제품에 어떤 문제가 생겼어요?",
+      "vietnamese_question": "Sản phẩm gặp vấn đề gì?",
+      "korean_answer": "불량품이 나왔어요.",
+      "vietnamese_answer": "Có sản phẩm lỗi."
+    },
+    {
+      "korean_question": "불량품이 나온 이유는 뭐예요?",
+      "vietnamese_question": "Nguyên nhân sản phẩm lỗi là gì?",
+      "korean_answer": "압력이 너무 높아서 그래요.",
+      "vietnamese_answer": "Vì áp suất quá cao."
+    }
+  ]
+ }
+ ]
+
