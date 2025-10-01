@@ -1,0 +1,99 @@
+
+[
+{
+  "audio": "hoi-thoai-38-1.mp3",
+  "hinhanh": "hoi-thoai-38-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "반장님",
+      "korean": "조립할 때 쓸 부품하고 공구는 준비됐어요?",
+      "vietnamese": "Các bộ phận và dụng cụ để lắp ráp đã chuẩn bị xong chưa?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 볼트하고 너트, 토크 렌치를 준비해 놓았습니다. 그리고 이게 오늘 조립할 기계의 도면입니다. 그런데 반장님, 여기 있는 토크 값이 뭐예요?",
+      "vietnamese": "Vâng, tôi đã chuẩn bị bu-lông, đai ốc và cờ-lê lực. Đây là bản vẽ của máy sẽ lắp hôm nay. Nhưng thưa banjangnim, giá trị mô-men xoắn ở đây nghĩa là gì?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "볼트를 돌릴 때 들어가는 힘을 말해요. 여기 있는 토크 값대로 조여야 볼트가 파손되지 않아요.",
+      "vietnamese": "Đó là lực cần thiết khi vặn bu-lông. Phải siết theo giá trị mô-men xoắn trong bản vẽ thì bu-lông mới không bị hỏng."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아, 그래서 토크 렌치가 있어야 되네요.",
+      "vietnamese": "À, vậy nên mới cần có cờ-lê lực."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "네, 맞아요. 토크 렌치가 있으면 토크 값을 미리 설정해서 볼트를 조일 수 있어요.",
+      "vietnamese": "Đúng vậy. Với cờ-lê lực thì có thể đặt sẵn giá trị mô-men xoắn và siết bu-lông theo đúng mức."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아, 이제 이해했습니다. 그럼 도면을 보면서 토크 값을 먼저 확인하겠습니다.",
+      "vietnamese": "À, giờ tôi hiểu rồi. Vậy tôi sẽ kiểm tra giá trị mô-men xoắn trước khi lắp ráp theo bản vẽ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "오늘 조립 작업에 필요한 부품과 공구는 뭐예요?",
+      "vietnamese_question": "Những bộ phận và dụng cụ nào cần cho công việc lắp ráp hôm nay?",
+      "korean_answer": "볼트, 너트, 토크 렌치가 필요해요.",
+      "vietnamese_answer": "Cần có bu-lông, đai ốc và cờ-lê lực."
+    },
+    {
+      "korean_question": "토크 렌치의 기능은 뭐예요?",
+      "vietnamese_question": "Chức năng của cờ-lê lực là gì?",
+      "korean_answer": "토크 값을 미리 설정해서 볼트를 조일 수 있어요.",
+      "vietnamese_answer": "Dùng để cài đặt sẵn giá trị mô-men xoắn và siết bu-lông theo mức đó."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-38-2.mp3",
+  "hinhanh": "hoi-thoai-38-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "반장님",
+      "korean": "지금 무슨 작업을 하고 있어요?",
+      "vietnamese": "Bây giờ anh đang làm việc gì vậy?"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "나사못을 조이는 중입니다. 방금 조립이 끝났는데 이 부분이 단단하게 고정이 안 되어 있어서요.",
+      "vietnamese": "Tôi đang vặn vít. Vừa lắp ráp xong nhưng chỗ này chưa được cố định chắc chắn."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "여기는 공간이 좁아서 자석식 드라이버로 조립해야 될 거예요. 한 손으로 나사와 드라이버를 다룰 수 있어서 좁은 곳에 있는 나사를 쉽게 조일 수 있어요. 공구함에 있으니까 그걸로 작업해 보세요.",
+      "vietnamese": "Ở đây không gian hẹp nên cần dùng tua vít nam châm để lắp ráp. Có thể dùng một tay điều khiển cả vít và tua vít, nên dễ dàng siết vít trong chỗ hẹp. Nó có trong hộp dụng cụ, hãy dùng cái đó thử đi."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 자석식 드라이버로 다시 조립해 보겠습니다.",
+      "vietnamese": "Vâng, tôi sẽ thử lắp ráp lại bằng tua vít nam châm."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아, 그리고 작업할 때 이물질을 자주 제거해 주세요. 자석에 금속 이물질이 쉽게 붙어요.",
+      "vietnamese": "À, và trong khi làm việc, hãy thường xuyên loại bỏ dị vật. Các mảnh kim loại dễ bám vào nam châm."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨는 지금 무엇을 하고 있어요?",
+      "vietnamese_question": "Bây giờ Agung đang làm gì?",
+      "korean_answer": "나사못을 조이고 있어요.",
+      "vietnamese_answer": "Anh ấy đang vặn vít."
+    },
+    {
+      "korean_question": "왜 자석식 드라이버를 사용해야 돼요?",
+      "vietnamese_question": "Tại sao cần phải dùng tua vít nam châm?",
+      "korean_answer": "공간이 좁아서 한 손으로 나사와 드라이버를 다룰 수 있기 때문이에요.",
+      "vietnamese_answer": "Vì không gian hẹp, nên có thể dùng một tay điều khiển cả vít và tua vít dễ dàng."
+    }
+  ]
+ }
+ ]
+
