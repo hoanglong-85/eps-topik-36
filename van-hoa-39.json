@@ -1,0 +1,39 @@
+[
+  {
+    "title": {
+      "korean": "그라인더 사용 시 주의 사항",
+      "vietnamese": "Những điều cần chú ý khi sử dụng máy mài"
+    },
+    "data": [
+      {
+        "korean": "그라인더는 빠른 속도로 회전하는 원반 형태의 날을 가진 전동 공구로, 물체를 절단하거나 물체의 표면을 매끄럽게 갈 때 사용합니다. 그라인더를 이용하면 작업을 쉽게 할 수 있지만 작업 시 큰 상해를 입을 수 있으므로 특별히 조심해야 합니다.",
+        "vietnamese": "Máy mài là công cụ điện có lưỡi mài hình đĩa tròn xoay tròn với tốc độ nhanh, được sử dụng khi cắt hoặc mài nhẵn bề mặt của vật thể. Nếu sử dụng máy mài thì có thể làm việc một cách dễ dàng nhưng phải đặc biệt cẩn thận vì có thể bị thương nặng khi làm việc."
+      },
+      {
+        "korean": "먼저, 전원을 꽂을 때는 그라인더의 전원 스위치가 꺼진(OFF) 상태인지를 확인해야 합니다. 그라인더의 날을 교체할 때도 반드시 전원을 끈 상태에서 작업해야 합니다. 또한 작업 전에는 보안경이나 방진마스크 등과 같은 보호구를 착용하고, 그라인더에 안전커버(방호덮개)를 장착해야 합니다. 화재가 발생할 가능성이 있기 때문에 주변을 정리하고 소화기를 비치해야 하는 것도 잊어서는 안 됩니다.",
+        "vietnamese": "Trước hết, khi cắm điện phải kiểm tra xem công tắc nguồn của máy mài đã tắt chưa. Nhất định phải ngắt nguồn điện khi thay lưỡi mài. Thêm vào đó, trước khi làm việc phải sử dụng những loại đồ bảo hộ như kính hay mặt nạ chống bụi và trang bị chụp bảo vệ lưỡi mài. Vì có thể xảy ra hỏa hoạn nên đừng quên việc sắp xếp xung quanh nơi làm việc và bố trí bình cứu hỏa."
+      },
+      {
+        "korean": "작업 중에 과부하가 걸리면 그라인더가 위로 솟구쳐 오르거나 절단하는 재료가 앞으로 튕겨져 나가는 킥백(Kickback) 현상이 나타날 수 있기 때문에 아주 조심해야 합니다. 바닥에 물체를 놓아 두고 절단 작업을 할 때는 그라인더의 날이 안쪽(왼쪽)으로 향하게 잡아야 합니다. 그라인더의 올바른 사용법만 익혀도 위험으로부터 자신을 보호할 수 있습니다.",
+        "vietnamese": "Nếu bị quá tải khi đang thao tác thì máy mài có thể xảy ra hiện tượng phản lực khiến vật liệu bị đẩy lên trên hoặc bắn ra ngoài nên phải luôn luôn cẩn thận. Khi đặt vật thể ở dưới đất và thực hiện thao tác cắt thì phải cầm sao cho lưỡi dao của máy mài hướng vào trong (bên trái). Cần quen với việc sử dụng máy mài chính xác để có thể bảo vệ bản thân khỏi nguy hiểm."
+      }
+    ],
+    "voca": {
+      "자재": "Nguyên liệu, vật liệu",
+      "고정하다": "Cố định",
+      "라벨": "Cái mác, nhãn",
+      "치수를 재다": "Đo chỉ số",
+      "철판 두께": "Độ dày tấm sắt",
+      "그라인더": "Máy mài, máy nghiền",
+      "회전하다": "Quay vòng, xoay tròn",
+      "표면": "Bề mặt, mặt ngoài",
+      "방진마스크": "Mặt nạ chống bụi",
+      "안전커버(방호덮개)": "Nắp bảo vệ, vỏ bảo vệ an toàn",
+      "비치하다": "Bố trí, thu xếp",
+      "솟구쳐 오르다": "Trào lên, phun lên, tuôn ra",
+      "튕겨지다": "Bật ra, văng ra",
+      "날": "Lưỡi, cạnh sắc",
+      "올바르다": "Đúng đắn"
+    }
+  }
+]

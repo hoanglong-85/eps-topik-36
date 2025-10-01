@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-39-1.mp3",
+  "hinhanh": "hoi-thoai-39-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "마 두",
+      "korean": "아궁 씨, 바쁘지 않으면 나 좀 도와줄래요?",
+      "vietnamese": "Agung, nếu không bận thì giúp tôi một chút nhé?"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 무슨 일이에요?",
+      "vietnamese": "Vâng, có chuyện gì vậy?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "반장님이 여기 있는 파이프를 자르라고 했어요. 그런데 잘 못 자르겠어요.",
+      "vietnamese": "Banjangnim bảo tôi cắt ống ở đây, nhưng tôi cắt không được tốt."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "먼저 파이프를 바이스로 고정하세요. 그러면 움직이지 않아서 자르기 쉬울 거예요.",
+      "vietnamese": "Trước tiên hãy cố định ống bằng ê-tô. Như vậy nó sẽ không di chuyển và dễ cắt hơn."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아, 그러면 얼른 바이스를 가져올게요. 알려 줘서 고마워요.",
+      "vietnamese": "À, vậy tôi sẽ đi lấy ê-tô ngay. Cảm ơn đã chỉ cho tôi."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "아니에요. 그런데 쇠톱으로 작업할 때에는 장갑을 꼭 끼고 하세요.",
+      "vietnamese": "Không có gì. Nhưng khi dùng cưa sắt thì nhất định phải đeo găng tay nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "반장님은 마두 씨에게 무슨 일을 시켰어요?",
+      "vietnamese_question": "Banjangnim giao cho Madhu công việc gì?",
+      "korean_answer": "파이프를 자르라고 시켰어요.",
+      "vietnamese_answer": "Giao cho anh ấy cắt ống."
+    },
+    {
+      "korean_question": "파이프를 자를 때 바이스가 왜 필요해요?",
+      "vietnamese_question": "Tại sao cần ê-tô khi cắt ống?",
+      "korean_answer": "파이프가 움직이지 않게 고정할 수 있어서 필요해요.",
+      "vietnamese_answer": "Vì nó giúp cố định ống để không bị di chuyển khi cắt."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-39-2.mp3",
+  "hinhanh": "hoi-thoai-39-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "마 두",
+      "korean": "반장님, 오늘 용접 작업을 해야 되는데요. 전기 용접기와 가스 용접기 중에서 어느 게 좋을까요?",
+      "vietnamese": "Banjangnim, hôm nay tôi cần hàn. Nên dùng máy hàn điện hay máy hàn gas thì tốt hơn ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "철판 두께가 어떻게 돼요?",
+      "vietnamese": "Tấm thép dày bao nhiêu?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "5밀리미터예요.",
+      "vietnamese": "Dày 5 milimet."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "그러면 가스 용접기로 합시다. 얇은 철판은 가스 용접기로 작업하는 게 더 좋아요.",
+      "vietnamese": "Vậy thì dùng máy hàn gas. Với thép mỏng thì dùng máy hàn gas sẽ tốt hơn."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "알겠습니다. 용접 방향은 오른쪽에서 왼쪽으로 해야 되지요?",
+      "vietnamese": "Vâng, tôi hiểu. Hướng hàn là từ phải sang trái đúng không ạ?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 얇은 철판은 그렇게 하는 게 좋아요. 그리고 작업을 시작하기 전에 가스가 새는지 꼭 확인하세요.",
+      "vietnamese": "Đúng vậy, với thép mỏng thì làm như vậy là tốt nhất. Và trước khi bắt đầu, hãy kiểm tra xem có rò rỉ khí gas không."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨는 오늘 무슨 일을 할 거예요?",
+      "vietnamese_question": "Hôm nay Madhu sẽ làm công việc gì?",
+      "korean_answer": "용접 작업을 할 거예요.",
+      "vietnamese_answer": "Anh ấy sẽ làm công việc hàn."
+    },
+    {
+      "korean_question": "마두 씨는 용접 작업을 하기 전에 뭘 먼저 해야 돼요?",
+      "vietnamese_question": "Trước khi hàn, Madhu phải làm gì trước?",
+      "korean_answer": "가스가 새는지 확인해야 돼요.",
+      "vietnamese_answer": "Anh ấy phải kiểm tra xem có rò rỉ khí gas không."
+    }
+  ]
+ }
+ ]
+

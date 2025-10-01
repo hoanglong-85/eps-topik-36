@@ -1,0 +1,25 @@
+[{
+  "nguphap": "-(으)라고 하다",
+  "loai": "Động từ + -(으)라고 하다 / Động từ + -지 말라고 하다",
+  "ynghia": "Được gắn vào động từ để truyền đạt lại mệnh lệnh hoặc yêu cầu của người khác. Khi muốn truyền đạt lời cấm đoán, dùng dạng ‘-지 말라고 하다’.",
+  "vidu": [
+    { "cau": "닛차난 씨가 자재에 덮개를 덮으라고 했어요.", "nghia": "Anh Nitchanan bảo phủ bạt lên vật liệu." },
+    { "cau": "마두 씨가 작업장을 청소하라고 했어요.", "nghia": "Anh Madu bảo dọn dẹp xưởng." },
+    { "cau": "반장님이 내일까지 제품을 다 만들라고 했어요.", "nghia": "Tổ trưởng bảo làm xong tất cả sản phẩm trước ngày mai." },
+    { "cau": "아궁 씨가 출근 시간에 늦지 말라고 했어요.", "nghia": "Anh Agung bảo đừng đi làm trễ." }
+  ],
+  "luat": "Động từ có patchim + -으라고 하다. Động từ không patchim hoặc patchim ‘ㄹ’ + -라고 하다. Để truyền đạt lời cấm đoán: Động từ + -지 말라고 하다."
+},
+{
+  "nguphap": "-기 전에",
+  "loai": "Động từ + -기 전에 / Danh từ + 전에",
+  "ynghia": "Được gắn vào động từ để diễn tả hành động phía sau được thực hiện **trước** hành động ở phía trước. Khi dùng với danh từ thì mang nghĩa trước (danh từ).",
+  "vidu": [
+    { "cau": "작업을 시작하기 전에 먼저 작업복을 입어요.", "nghia": "Trước khi bắt đầu công việc, hãy mặc đồ bảo hộ trước." },
+    { "cau": "라벨을 붙이기 전에 상자를 밀봉합니다.", "nghia": "Niêm phong hộp trước khi dán nhãn." },
+    { "cau": "상자에 담기 전에 제품을 크기별로 분류하세요.", "nghia": "Hãy phân loại sản phẩm theo kích cỡ trước khi đóng vào hộp." },
+    { "cau": "퇴근 전에 작업장을 정리합니다.", "nghia": "Trước khi tan ca, dọn dẹp xưởng làm việc." },
+    { "cau": "10분 전에 출근했어요.", "nghia": "Tôi đã đến công ty trước 10 phút." }
+  ],
+  "luat": "Động từ + -기 전에: Dùng khi hành động sau xảy ra trước hành động trước. Danh từ + 전에: Dùng để chỉ thời điểm trước (danh từ)."
+}]
