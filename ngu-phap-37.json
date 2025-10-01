@@ -1,0 +1,22 @@
+[{
+  "nguphap": "-아도/어도",
+  "loai": "Động từ/형용사 + -아도/어도",
+  "ynghia": "‘-아도/어도’ được gắn vào **động từ hoặc tính từ** để diễn tả **kết quả trái với mong đợi** dựa trên điều kiện hoặc hành động trước đó.",
+  "vidu": [
+    { "cau": "잔업 후에는 늦잠을 자도 피곤해요.", "nghia": "Dù ngủ nướng sau khi làm thêm giờ vẫn thấy mệt." },
+    { "cau": "버튼을 눌러도 작동하지 않아서 수리를 맡겼습니다.", "nghia": "Dù đã bấm nút nhưng máy không hoạt động nên đã mang đi sửa." },
+    { "cau": "작업이 끝나면 피곤해도 작업장 정리를 해야 해요.", "nghia": "Dù mệt sau khi làm xong việc vẫn phải dọn dẹp xưởng." }
+  ],
+  "luat": "Động từ hoặc tính từ + **-아도** (khi nguyên âm gốc là ㅏ, ㅗ) / **-어도** (khi nguyên âm khác). Dùng để diễn tả tình huống **trái với dự đoán hoặc mong đợi**."
+},
+{
+  "nguphap": "-자고 하다",
+  "loai": "Động từ + -자고 하다",
+  "ynghia": "‘-자고 하다’ được gắn vào **động từ** để **thuật lại lời đề nghị, rủ rê** của người khác về việc cùng làm một hành động nào đó.",
+  "vidu": [
+    { "cau": "민민아웅 씨가 오늘 저녁에 같이 퇴근하자고 했어요.", "nghia": "Anh Min Min Aung nói tối nay cùng tan ca." },
+    { "cau": "프엉 씨가 오전에 작업이 끝나면 같이 점심을 먹자고 했어요.", "nghia": "Chị Phương nói buổi sáng làm xong thì cùng ăn trưa." },
+    { "cau": "반장님께서 다음 주에 회식을 하자고 하셨어요.", "nghia": "Tổ trưởng nói tuần sau tổ chức liên hoan." }
+  ],
+  "luat": "Động từ + **-자고 하다**: dùng để **truyền đạt** đề nghị, rủ rê của người khác. Khi cần chia kính ngữ, dùng **-자고 하셨어요**."
+}]

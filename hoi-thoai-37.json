@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-37-1.mp3",
+  "hinhanh": "hoi-thoai-37-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "마 두",
+      "korean": "반장님, 기계가 자꾸 멈춰서 작업이 많이 밀렸어요.",
+      "vietnamese": "Banjangnim, máy cứ bị dừng nên công việc bị chậm trễ nhiều."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "어제까지는 괜찮았는데 갑자기 왜요? 우선 전원부터 끄세요.",
+      "vietnamese": "Hôm qua vẫn ổn mà, sao tự nhiên vậy? Trước hết hãy tắt nguồn đi."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "오전에는 문제가 없었는데 오후 작업 때부터 작동이 잘 안 돼요.",
+      "vietnamese": "Buổi sáng thì không có vấn đề, nhưng từ ca chiều máy hoạt động không tốt."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아, 여기에 이물질이 껴 있네요. 작업 전에 점검 안 했어요?",
+      "vietnamese": "À, có dị vật bị kẹt ở đây. Trước khi làm việc anh không kiểm tra à?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "죄송합니다. 오늘은 작업할 게 많아서 제대로 점검을 못 했어요.",
+      "vietnamese": "Xin lỗi. Hôm nay nhiều việc quá nên tôi không kiểm tra kỹ được."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "아무리 바빠도 작업 전에 꼼꼼하게 점검해야 돼요. 잘못하면 사고가 날 수 있어요.",
+      "vietnamese": "Dù bận đến đâu thì trước khi làm cũng phải kiểm tra kỹ lưỡng. Nếu không có thể gây tai nạn đấy."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "기계는 언제부터 작동이 안 돼요?",
+      "vietnamese_question": "Máy từ khi nào thì không hoạt động?",
+      "korean_answer": "오후 작업 때부터 잘 작동이 안 돼요.",
+      "vietnamese_answer": "Từ ca làm buổi chiều thì máy hoạt động không tốt."
+    },
+    {
+      "korean_question": "기계는 왜 작동이 안 돼요?",
+      "vietnamese_question": "Tại sao máy không hoạt động?",
+      "korean_answer": "기계에 이물질이 껴 있어서 작동이 안 돼요.",
+      "vietnamese_answer": "Vì có dị vật bị kẹt trong máy nên máy không hoạt động."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-37-2.mp3",
+  "hinhanh": "hoi-thoai-37-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "진 수",
+      "korean": "아궁 씨, 반장님이 오후에 철판에 구멍 뚫는 작업을 하자고 하셨어요. 여기 이 도면을 보고 구멍 좀 뚫어 주세요.",
+      "vietnamese": "Agung, banjangnim nói chiều nay chúng ta sẽ khoan lỗ trên tấm thép. Hãy xem bản vẽ này và khoan lỗ nhé."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 알겠습니다. 밀링 머신으로 하면 되지요?",
+      "vietnamese": "Vâng, tôi hiểu rồi. Dùng máy phay phải không?"
+    },
+    {
+      "speaker": "진 수",
+      "korean": "이건 밀링 머신보다 드릴링머신으로 하는 게 좋을 거예요.",
+      "vietnamese": "Việc này dùng máy khoan thì tốt hơn máy phay."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "그래요? 밀링 머신이 정확하지 않아요?",
+      "vietnamese": "Thế à? Máy phay không chính xác sao?"
+    },
+    {
+      "speaker": "진 수",
+      "korean": "네, 맞아요. 그런데 오늘은 양이 많고 구멍을 뚫기만 하면 되니까 드릴링머신으로 하는 게 나아요.",
+      "vietnamese": "Đúng, máy phay rất chính xác. Nhưng hôm nay số lượng nhiều và chỉ cần khoan lỗ thôi nên dùng máy khoan sẽ tốt hơn."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "아, 밀링 머신은 꼼꼼하게 작업할 때 쓰는 게 좋다고 하셨지요? 알겠습니다. 드릴링머신으로 작업할게요.",
+      "vietnamese": "À, máy phay thì nên dùng khi cần làm thật tỉ mỉ, đúng không? Tôi hiểu rồi. Tôi sẽ dùng máy khoan để làm."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "반장님은 오늘 무슨 작업을 하자고 하셨어요?",
+      "vietnamese_question": "Hôm nay banjangnim bảo làm công việc gì?",
+      "korean_answer": "철판에 구멍 뚫는 작업을 하자고 하셨어요.",
+      "vietnamese_answer": "Ông ấy bảo khoan lỗ trên tấm thép."
+    },
+    {
+      "korean_question": "진수 씨는 왜 오늘 작업에 드릴링머신이 좋다고 생각해요?",
+      "vietnamese_question": "Tại sao Jinsu nghĩ hôm nay nên dùng máy khoan?",
+      "korean_answer": "오늘은 양이 많고 구멍을 뚫기만 하면 되니까 드릴링머신이 좋아요.",
+      "vietnamese_answer": "Vì hôm nay số lượng nhiều và chỉ cần khoan lỗ thôi nên dùng máy khoan sẽ tốt hơn."
+    }
+  ]
+ }
+ ]
+
