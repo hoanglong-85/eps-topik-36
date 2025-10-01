@@ -1,0 +1,99 @@
+
+[
+{
+  "audio": "hoi-thoai-36-1.mp3",
+  "hinhanh": "hoi-thoai-36-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "아 궁",
+      "korean": "반장님, 이제 포장 작업을 시작하면 될까요?",
+      "vietnamese": "Banjangnim, chúng ta có thể bắt đầu đóng gói hàng hóa bây giờ được không?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "상자하고 포장지, 완충재 모두 갖다 놓았지요?",
+      "vietnamese": "Anh đã chuẩn bị hộp, giấy gói và vật liệu chống va đập rồi chứ?"
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 작업장에 준비해 놓았어요.",
+      "vietnamese": "Vâng, tôi đã chuẩn bị sẵn trong khu vực làm việc rồi."
+    },
+    {
+      "speaker": "반장님",
+      "korean": "포장할 때 완충재로 제품을 꼼꼼하게 싸는 게 중요해요. 그렇게 하지 않으면 운송할 때 제품이 손상될 수 있어요.",
+      "vietnamese": "Khi đóng gói, điều quan trọng là phải bọc kỹ sản phẩm bằng vật liệu chống va đập. Nếu không, sản phẩm có thể bị hư hại khi vận chuyển."
+    },
+    {
+      "speaker": "아 궁",
+      "korean": "네, 신경 써서 할게요. 포장 작업은 5시 전까지 끝내면 되지요?",
+      "vietnamese": "Vâng, tôi sẽ chú ý làm cẩn thận. Công việc đóng gói phải hoàn thành trước 5 giờ, đúng không?"
+    },
+    {
+      "speaker": "반장님",
+      "korean": "맞아요. 포장이 끝난 상자는 크기별로 분류해서 파렛트에 쌓아 놓으세요.",
+      "vietnamese": "Đúng vậy. Sau khi đóng gói xong, hãy phân loại các hộp theo kích thước và xếp chúng lên pallet."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "제품을 포장할 때 뭐가 중요해요?",
+      "vietnamese_question": "Khi đóng gói sản phẩm, điều gì là quan trọng?",
+      "korean_answer": "완충재로 제품을 꼼꼼하게 싸는 게 중요해요.",
+      "vietnamese_answer": "Điều quan trọng là bọc kỹ sản phẩm bằng vật liệu chống va đập."
+    },
+    {
+      "korean_question": "포장이 끝나면 무엇을 해야 돼요?",
+      "vietnamese_question": "Sau khi đóng gói xong, cần làm gì?",
+      "korean_answer": "상자를 크기별로 분류해서 파렛트에 쌓아 놓아야 해요.",
+      "vietnamese_answer": "Cần phân loại hộp theo kích thước và xếp lên pallet."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-36-2.mp3",
+  "hinhanh": "hoi-thoai-36-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "관리자",
+      "korean": "오늘 납품할 상품은 모두 준비됐지요?",
+      "vietnamese": "Các sản phẩm cần giao hôm nay đã chuẩn bị xong hết rồi chứ?"
+    },
+    {
+      "speaker": "마 두",
+      "korean": "네, 이쪽에 있는 물건들이 오늘 출하할 상품입니다.",
+      "vietnamese": "Vâng, những hàng hóa ở đây là sản phẩm sẽ xuất hàng hôm nay."
+    },
+    {
+      "speaker": "관리자",
+      "korean": "한번 봅시다. 수량도 맞고 상자에 라벨도 빠짐없이 붙여 놓았네요. 수고했어요.",
+      "vietnamese": "Để tôi xem nào. Số lượng đúng, nhãn dán trên hộp cũng đầy đủ. Làm tốt lắm."
+    },
+    {
+      "speaker": "마 두",
+      "korean": "아닙니다. 그럼, 출하 시간에 맞춰서 상자를 차에 실어 놓겠습니다.",
+      "vietnamese": "Không có gì ạ. Vậy thì tôi sẽ chất hàng lên xe đúng giờ xuất hàng."
+    },
+    {
+      "speaker": "관리자",
+      "korean": "출하량이 많으니까 지게차로 옮기는 게 좋겠어요. 그리고 차에 상자를 실을 때 너무 높게 쌓지 마세요. 운송할 때 위험할 수 있어요.",
+      "vietnamese": "Vì số lượng hàng nhiều, nên tốt hơn là dùng xe nâng để chuyển. Và khi chất hộp lên xe, đừng xếp quá cao, có thể nguy hiểm khi vận chuyển."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨는 어떤 물건을 준비했어요?",
+      "vietnamese_question": "Madhu đã chuẩn bị loại hàng hóa nào?",
+      "korean_answer": "오늘 출하할 상품을 준비했어요.",
+      "vietnamese_answer": "Anh ấy đã chuẩn bị các sản phẩm sẽ xuất hàng hôm nay."
+    },
+    {
+      "korean_question": "차에 상자를 실을 때 마두 씨는 어떤 것을 주의해야 돼요?",
+      "vietnamese_question": "Khi chất hộp lên xe, Madhu phải chú ý điều gì?",
+      "korean_answer": "상자를 너무 높게 쌓지 말아야 해요.",
+      "vietnamese_answer": "Anh ấy phải chú ý không xếp hộp quá cao."
+    }
+  ]
+ }
+ ]
+

@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-(으)ㄴ",
+  "loai": "Động từ + -(으)ㄴ",
+  "ynghia": "‘-(으)ㄴ’ được gắn vào động từ để bổ nghĩa cho danh từ phía sau, diễn tả **hành động đã xảy ra trong quá khứ** hoặc **kết quả của hành động đã hoàn thành và vẫn còn duy trì**.",
+  "vidu": [
+    { "cau": "완충재로 싼 제품은 저한테 주세요.", "nghia": "Sản phẩm đã được bọc bằng vật liệu chống sốc thì đưa cho tôi." },
+    { "cau": "제가 여기에 둔 포장 기준서 못 봤어요?", "nghia": "Bạn có thấy bản tiêu chuẩn đóng gói mà tôi đã để ở đây không?" },
+    { "cau": "파렛트에 쌓아 놓은 물건을 창고로 옮기세요.", "nghia": "Hãy chuyển những hàng hóa đã xếp trên pallet vào kho." }
+  ],
+  "luat": "Động từ có patchim + -은 (닫다 → 닫은); Không patchim hoặc patchim ㄹ + -ㄴ (배우다 → 배운, 만들다 → 만든). Dùng để mô tả danh từ mang nghĩa sự việc **đã xảy ra** hoặc **kết quả vẫn còn giữ**."
+},
+{
+  "nguphap": "-겠-",
+  "loai": "Động từ + -겠-",
+  "ynghia": "‘-겠-’ được gắn vào động từ để diễn tả **ý định hoặc quyết tâm** của người nói. Chủ ngữ thường là **ngôi thứ nhất**. Ngoài ra, còn dùng để nói một cách **lịch sự và nhẹ nhàng**.",
+  "vidu": [
+    { "cau": "다음부터 회사에 일찍 오겠습니다.", "nghia": "Từ lần sau tôi sẽ đến công ty sớm." },
+    { "cau": "상자를 크기별로 분류하겠습니다.", "nghia": "Tôi sẽ phân loại các thùng theo kích cỡ." },
+    { "cau": "처음 뵙겠습니다.", "nghia": "Rất hân hạnh được gặp lần đầu." },
+    { "cau": "아궁 씨, 좀 도와주시겠습니까?", "nghia": "Anh/Chị A-gung, anh/chị có thể giúp một chút được không ạ?" }
+  ],
+  "luat": "Gắn trực tiếp vào **động từ**. Dùng để bày tỏ **ý định, quyết tâm** của người nói (chủ ngữ 1 ngôi) hoặc để diễn đạt một cách **lịch sự, mềm mỏng**."
+}]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "korean": "한국의 무역 특성",
+      "vietnamese": "Đặc trưng của thương mại Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한국은 무역 의존도가 높은 국가라고 할 수 있습니다. 천연자원이 부족하고 내수시장이 작은 편이기 때문에 한국 정부는 지속적으로 수출 주도 정책을 펴 왔습니다. 이와 같은 정책에 따라 한국은 국제 무역을 통하여 성장하기 시작하여 2010년대에는 무역 규모가 1조 달러를 돌파하였습니다.",
+        "vietnamese": "Hàn Quốc có thể được xem là một quốc gia có mức độ phụ thuộc nhiều vào thương mại. Bởi vì thiếu tài nguyên thiên nhiên và thị trường nội địa thuộc diện nhỏ nên chính phủ Hàn Quốc đã liên tục áp dụng chính sách lấy xuất khẩu làm chủ đạo. Theo chính sách này, Hàn Quốc bắt đầu phát triển thông qua thương mại quốc tế và đã bắt đầu tăng trưởng. Đến những năm 2010, quy mô thương mại của Hàn Quốc đã đột phá mức 1000 tỷ đô."
+      },
+      {
+        "korean": "한국의 무역은 부족한 천연자원은 수입하고, 이를 혁신적인 기술로 가공하여 고부가가치 제품을 만들어 수출하는 특성을 보입니다. 주요 수입 품목은 원유, 천연가스, 철강 원자재, 산업기계 및 장비, 농산물 및 식료품 등이고, 주요 수출 품목은 반도체, 스마트폰, 자동차, 조선, 석유화학 제품, 배터리 등입니다. 한국과 무역 거래를 가장 많이 하는 국가는 중국이며, 미국, 일본, 베트남 등이 그 뒤를 잇고 있습니다.",
+        "vietnamese": "Thương mại Hàn Quốc có đặc trưng là nhập khẩu những nguyên liệu tự nhiên bị thiếu và gia công chúng bằng kỹ thuật hiện đại rồi biến chúng thành những sản phẩm có giá trị kinh tế cao và xuất khẩu. Những sản phẩm nhập khẩu chủ yếu là dầu thô, khí gas tự nhiên, nguyên vật liệu thép, trang bị và máy móc công nghiệp, nông sản, thực phẩm,... Những mặt hàng xuất khẩu chủ yếu là chất bán dẫn, điện thoại thông minh, ô tô, tàu thuyền, hóa dầu hay pin/ắc quy,... Quốc gia giao dịch thương mại nhiều nhất với Hàn Quốc là Trung Quốc, tiếp sau đó là các nước như Mỹ, Nhật Bản, Việt Nam."
+      },
+      {
+        "korean": "무역 의존도가 높은 한국은 다양한 국가와 자유무역협정(FTA)을 체결하여 무역의 장벽을 줄이고, 글로벌 시장에서의 경쟁력을 강화하고 있습니다. 아울러 특정 산업에 대한 의존도를 낮추고, 새로운 시장으로 진출하고자 수출 다변화를 위해 지속적으로 노력하고 있습니다.",
+        "vietnamese": "Hàn Quốc - một quốc gia có mức độ phụ thuộc vào thương mại cao đã ký kết Hiệp định Thương mại tự do (FTA) với nhiều quốc gia để giảm bớt những rào cản của thương mại và tăng cường sức cạnh tranh trên thị trường toàn cầu. Hơn nữa, Hàn Quốc đang nỗ lực không ngừng để thay đổi đa dạng việc xuất khẩu từ đó tiến vào những thị trường mới và giảm mức độ phụ thuộc vào những ngành kinh tế đặc trưng."
+      }
+    ],
+    "voca": {
+      "무역": "Mậu dịch, thương mại",
+      "천연자원": "Tài nguyên thiên nhiên",
+      "부족하다": "Thiếu, thiếu hụt, khiếm khuyết",
+      "내수시장": "Thị trường nội địa",
+      "정부": "Chính phủ",
+      "정책을 펴다": "Mở ra chính sách, thực hiện chính sách",
+      "성장하다": "Phát triển, tăng trưởng",
+      "규모": "Quy mô",
+      "돌파하다": "Phá vỡ, đột phá, vượt qua",
+      "혁신적": "Tính đổi mới",
+      "가공하다": "Gia công, sản xuất, chế biến",
+      "주요": "Chủ yếu, chủ chốt",
+      "품목": "Mặt hàng, loại hàng, sản phẩm",
+      "원유": "Dầu thô",
+      "천연가스": "Khí thiên nhiên, ga thiên nhiên",
+      "철강 원자재": "Nguyên liệu thô để làm thép",
+      "반도체": "Chất bán dẫn",
+      "석유화학": "Ngành hoá dầu",
+      "배터리": "Pin, ắc quy",
+      "장벽": "Tường ngăn, rào chắn"
+    }
+  }
+]
